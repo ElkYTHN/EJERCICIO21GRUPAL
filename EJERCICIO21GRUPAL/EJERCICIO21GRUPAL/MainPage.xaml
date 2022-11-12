@@ -26,6 +26,7 @@
                         <x:String>Asia</x:String>
                         <x:String>Oceania</x:String>
                         <x:String>Europe</x:String>
+                        
                     </x:Array>
                 </Picker.ItemsSource>
             </Picker>
